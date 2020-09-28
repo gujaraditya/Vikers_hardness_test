@@ -1,0 +1,15 @@
+Mean Distance= 0.62
+HV= 24.12
+Result= Pass
+Mean Distance= 0.63
+HV= 23.36
+Result= Pass
+Mean Distance= 0.62
+HV= 24.12
+Result= Pass
+Mean Distance= 0.33
+HV= 85.12
+Result= Pass
+Mean Distance= 0.33
+HV= 85.12
+Result= Fail
